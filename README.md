@@ -56,6 +56,6 @@ Clone the repositor below.
 │   ├── reviews.csv
 ├── README.md
 ├── functions_for_AirBnB.py
-├── p4_Boston_AirBnB_with CRISP-DM v1.ipynb
+├── Write_a_data_science_blog.ipynb
 
 ```
