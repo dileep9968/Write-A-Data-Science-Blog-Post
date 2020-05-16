@@ -10,10 +10,6 @@
     2. [Installation](#installation)
     3. [Run](#run)
 3. [File Structure](#file_structure)
-4. [Results](#results)
-    1. [Notebook](#notebook)
-    2. [A blog post](#a_blog_post)
-5. [License](#license)
 
 
 <a name="about_the_project"></a>
