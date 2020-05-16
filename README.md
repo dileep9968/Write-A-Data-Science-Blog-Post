@@ -40,7 +40,7 @@ The code should run with no issues using Python versions 3.* with the libararies
 <a name="installation"></a>
 ### Installation
 Clone the repositor below.
-`https://github.com/dalpengholic/Udacity_Boston-AirBNB-Data.git`
+`https://github.com/dileep9968/Write-A-Data-Science-Blog-Post.git`
 
 <a name="run"></a>
 ### Run
