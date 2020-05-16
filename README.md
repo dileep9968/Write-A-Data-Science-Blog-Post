@@ -58,27 +58,8 @@ Clone the repositor below.
 │   ├── calendar.csv
 │   ├── listings.csv
 │   ├── reviews.csv
-├── notebooks # notebooks used to make the final version of the notebook
-│   ├── p4_Boston_AirBnB_with CRISP-DM.ipynb
-│   └── p4_Boston_AirBnB_with CRISP-DM_data_cleaning.ipynb
-│   └── p4_Boston_AirBnB_with CRISP-DM_supervised.ipynb
-├── LICENSE
 ├── README.md
 ├── functions_for_AirBnB.py
 ├── p4_Boston_AirBnB_with CRISP-DM v1.ipynb
 
 ```
-<a name="results"></a>
-## Results
-<a name="notebook"></a>
-### Notebook
-[Click to see the final version of the notebook](https://github.com/dalpengholic/Udacity_Boston-AirBNB-Data/blob/master/p4_Boston_AirBnB_with%20CRISP-DM%20v1.ipynb)
-
-<a name="a_blog_post"></a>
-### A blog post
-[Click to see the a blog post on Medium.com](https://medium.com/@dalpengholic/the-5-ways-to-be-successful-hosts-of-airbnb-b0c02612f5fb) 
-
-
-<a name="license"></a>
-## License
-This source code is made available under the [MIT License](https://github.com/dalpengholic/Udacity_Boston-AirBNB-Data/blob/master/LICENSE).
