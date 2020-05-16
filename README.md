@@ -44,16 +44,13 @@ Clone the repositor below.
 
 <a name="run"></a>
 ### Run
-1. Open a terminal and input `jupyter notebook` in the project's root directory. Then, open `p4_Boston_AirBnB_with CRISP-DM v1.ipynb` notebook.
+1. Open a terminal and input `jupyter notebook` in the project's root directory. Then, open `Write_a_data_science_blog.ipynb.
+2. Download the airbnb data
 2. Run all the cells.
       
 <a name="file_structure"></a>
 ## File Structure
 ```
-├── data
-│   ├── calendar.csv
-│   ├── listings.csv
-│   ├── reviews.csv
 ├── README.md
 ├── functions_for_AirBnB.py
 ├── Write_a_data_science_blog.ipynb
